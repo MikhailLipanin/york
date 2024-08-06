@@ -1,0 +1,22 @@
+{
+  "projectName": [
+    {
+      "cmd": {
+        "app": [
+          "main.go",
+          "doc.txt"
+        ]
+      }
+    },
+    ".gitignore",
+    "Makefile",
+    "Dockerfile",
+    "LICENSE",
+    "go.mod",
+    "go.sum",
+    [
+      "abc.go",
+      "test.go"
+    ]
+  ]
+}
